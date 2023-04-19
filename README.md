@@ -13,5 +13,5 @@ cd mlp-keras-iris-dataset
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-jupyter notebook
+open iris.ipynb
 ```
